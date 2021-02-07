@@ -1,0 +1,15 @@
+/* 
+    Created on : Feb 6, 2021, 6:26:44 PM
+    Author     : Rhume
+*/
+
+.login-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
